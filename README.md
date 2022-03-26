@@ -21,7 +21,7 @@ You will get the below output if laravel is installed successfully. Maybe the la
 Laravel Installer 4.2.9
 ```
 ## Create a new laravel project
-> To start a Laravel project, run the following command.
+> To create a Laravel project, run the following command.
 ```sh
 laravel new myapp
 ```
